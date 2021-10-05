@@ -12,11 +12,11 @@ const Page9 = () => {
     <PageContainer>
       <Heading sz="45px">Enjoy !</Heading>
       <InfoContent style={{ fontSize: "28px", marginTop: "15px" }}>
-        I hope you have just as much fun playing around with this visualization
-        tool as I had building it ❤️
+        I hope you enjoy playing around with this visualization
+        tool as I had building it!
       </InfoContent>
       <InfoContent style={{ fontSize: "26px", marginTop: "15px" }}>
-        You can learn more about the stable marriage problem by watching this{" "}
+        You can learn more about the stable matching problem by watching this{" "}
         <PageLink
           href="https://www.youtube.com/watch?v=Qcv1IqHWAzg"
           target="_blank"
@@ -28,7 +28,7 @@ const Page9 = () => {
       <InfoContent style={{ fontSize: "28px", marginTop: "15px" }}>
         If you want to see the source code for this application, check out my{" "}
         <PageLink
-          href="https://github.com/Eric761/stable-matching-algo-viz"
+          href="https://github.com/SikkkanDar/Stable-Matching-Visualizer"
           target="_blank"
         >
           github
