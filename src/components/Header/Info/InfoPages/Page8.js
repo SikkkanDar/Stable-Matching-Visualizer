@@ -22,16 +22,15 @@ const Page8 = () => {
           starts, one can revert back to that with the reset to default.
         </FunctionList>
         <FunctionList>
-          The user may <strong>download</strong> the configuration the
+          The user may <strong>download</strong> the configuration which the
           visualizer currently has.
         </FunctionList>
         <FunctionList>
-          The user may <strong>load</strong> the configuration that they saved
+          The user may <strong>Upload</strong> the configuration that they saved
           from the visualizer and is stored at their device.
         </FunctionList>
         <FunctionList>
-          The user may <strong>pause</strong> at any time the visualization is
-          running.
+          The user may <strong>pause</strong> the running visualization anytime.
         </FunctionList>
         <FunctionList>
           There is also an option to simply{" "}
@@ -44,7 +43,7 @@ const Page8 = () => {
         </FunctionList>
         <FunctionList>
           When the <strong>visualization is finished</strong>, the{" "}
-          <strong>results can be interacted</strong>. User can check the pairs
+          <strong>results can be seen</strong>. User can check the pairs
           simply by <strong>clicking on any entity</strong>.
         </FunctionList>
       </ul>
