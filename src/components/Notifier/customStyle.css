@@ -1,0 +1,29 @@
+.Toastify__toast-container {
+  color: #0e0e0e !important;
+  font-weight: bold !important;
+  font-family: "Baloo Chettan 2", cursive;
+  width: 345px;
+}
+
+.Toastify__toast-container--bottom-center {
+  bottom: 0.2em !important;
+}
+
+.Toastify__toast--info {
+  background: linear-gradient(45deg, #54d4fd, #aaeaff) !important;
+}
+.Toastify__toast--success {
+  background: linear-gradient(45deg, #03bb6e, #5afc7b) !important;
+}
+.Toastify__toast--warning {
+  background: linear-gradient(45deg, #37cafc, #aaeaff) !important;
+  /* background: linear-gradient(45deg, #fffb00, #7bf1ce) !important; */
+}
+.Toastify__toast--error {
+  background: linear-gradient(45deg, #f51313, #e24949) !important;
+}
+
+.Toastify__close-button {
+  color: black !important;
+  opacity: 1 !important;
+}
