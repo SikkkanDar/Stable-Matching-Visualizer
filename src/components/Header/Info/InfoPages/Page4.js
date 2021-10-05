@@ -12,11 +12,10 @@ const Page4 = () => {
     <PageContainer>
       <Heading sz="35px">How do I put it to use ?</Heading>
       <InfoContent>
-        You can edit the names of everyone in either <strong>male</strong> or{" "}
-        <strong>female</strong> groups, and you can also see their list by
+        You can edit the list of both the sets and can also see their preference order by
         clicking on their{" "}
         <strong>
-          <i>arrow icon</i>
+          <i>Arrow icon</i>
         </strong>
         .
       </InfoContent>

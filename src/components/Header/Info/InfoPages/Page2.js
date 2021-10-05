@@ -11,20 +11,14 @@ import {
 const Page2 = () => {
   return (
     <PageContainer>
-      <Heading sz="40px">What is stm_algoviz ?</Heading>
+      <Heading sz="40px">About the Application</Heading>
       <Description>
-        <PageLink
-          href="https://github.com/Eric761/stable-matching-algo-viz"
-          target="_blank"
-        >
-          stm_algoviz
-        </PageLink>{" "}
-        is a real-time{" "}
+        This Application is a real-time{" "}
         <PageLink
           href="https://en.wikipedia.org/wiki/Gale%E2%80%93Shapley_algorithm"
           target="_blank"
         >
-          Stable Marriage Algorithm
+          Stable Matching Algorithm
         </PageLink>{" "}
         Visualizer. This application uses the classic version made by{" "}
         <strong>David Gale</strong> and <strong>Lloyd Shapley</strong>. The

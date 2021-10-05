@@ -7,11 +7,11 @@ const Page1 = () => {
     <PageContainer>
       <H3>Welcome to Stable Matching Algorithm Visualizer!</H3>
       <H6>
-        This short tutorial will walk you through all of the features of this
+        This short tutorial will walk you through all the features of this
         application.
       </H6>
       <Content>
-        If you want to dive right in, feel free to press the{" "}
+        If you want to dive right in, press the{" "}
         <strong>Skip Tutorial</strong> button below. Otherwise, press{" "}
         <strong>Next</strong> !
       </Content>

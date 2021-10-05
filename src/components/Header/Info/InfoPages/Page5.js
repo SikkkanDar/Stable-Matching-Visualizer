@@ -12,7 +12,7 @@ const Page5 = () => {
     <PageContainer>
       <Heading sz="35px">Drag N Drop</Heading>
       <InfoContent>
-        Preference list of both male and female groups can be rearranged by{" "}
+        Preference list of each object in both groups can be rearranged by{" "}
         <strong>
           <i>dragging & dropping</i>
         </strong>
